@@ -25,6 +25,3 @@ and install the requirements:
 pip install -r requirements.txt
 ```
 
-## Legal
-
-This project was done baring [Path of Exile Terms of Use](https://www.pathofexile.com/legal/terms-of-use-and-privacy-policy).
